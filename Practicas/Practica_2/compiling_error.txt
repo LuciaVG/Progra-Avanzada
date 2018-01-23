@@ -1,0 +1,2 @@
+C:\Users\bvlul\AppData\Local\Temp\ccy9M04m.o:operationstest.c:(.text+0x2e): undefined reference to `add'
+collect2.exe: error: ld returned 1 exit status
